@@ -11,4 +11,4 @@ Privacy Policy for WhenYoung Resonance  app
 - **Local Storage**: All app settings and user preferences are stored locally on your device and are deleted if the app is uninstalled.
 
 ### Contact
-If you have any questions, please contact us at: [你的电子邮箱]
+If you have any questions, please contact us at: zenozey0621@gmail.com
